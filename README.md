@@ -1,6 +1,7 @@
 # tinder-Site
 Tinder Web-Page using bootstrap
-preferably open the index.html while vpn is on due to blockage of bootstrap packages in egypt region
+preferably open the index.html while VPN is on due to blockage of bootstrap packages in Egypt region
+https://eizaldintarik.github.io/tinder-Site/
 
 
 ![Screenshot (64)](https://github.com/EizaldinTarik/tinder-Site/assets/62310240/749cc678-143d-4cf0-92be-b8f33348ce89)
