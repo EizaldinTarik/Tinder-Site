@@ -1,6 +1,6 @@
 # tinder-Site
 Tinder Web-Page using bootstrap
-preferably open the index.html while VPN is on due to blockage of bootstrap packages in Egypt region
+
 https://eizaldintarik.github.io/tinder-Site/
 
 
