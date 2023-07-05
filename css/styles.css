@@ -149,6 +149,10 @@ p{
     width: 50%;
 }
 
+#pricing-btn {
+    text-decoration: none;
+}
+
 /* Call to action section */
 
 #cta {
